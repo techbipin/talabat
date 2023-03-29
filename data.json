@@ -1,0 +1,517 @@
+{
+  "Most Selling": {
+    "items": [
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638026444912008275?width=172&amp;height=172",
+        "item_name": "Crafter Breakfast Tray",
+        "item_desc": "10 pcs wrap toast bread sandwiches (Chicken Caesar, Labneh\n                                    Zaatar, Turkey & cheese) , 7 pcs mini ciabatta sandwich (Cream Chicken, Beef ,\n                                    Cream cheese, Pesto Labneh), 5 pcs open croissant mix flavors (Beef Bolognese, Cream\n                                    chicken, Pesto labneh, cream cheese) , mini danish 6 pcs (cheese frosting,\n                                    raspberry, vanilla custard with strawberry, custard with mango, custard with\n                                    pistachio and blueberry), mix bread 4 kinds, sliced mix cheese, pesto mayo &\n                                    labneh dips, Twisted sticks. ",
+        "item_price": "258.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022895314155893?width=172&amp;height=172",
+        "item_name": "Madelaine Box ",
+        "item_desc": "Sponge dough topped with different chocolate flavors",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023708708068865?width=172&amp;height=172",
+        "item_name": "Mini Croissant Fatayer Box",
+        "item_desc": "Croissant infused with labneh and zaatar 22 grams",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022908864108146?width=172&amp;height=172",
+        "item_name": "Tagliatelle Mushroom Pasta ",
+        "item_desc": "Tagliatelle Pasta Served with Classic Creamy Mushroom\n                                    Chicken Sauce\n                                ",
+        "item_price": "41.00"
+      }
+    ]
+  },
+  "Salty Boxes": {
+    "items": [
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023700934862575?width=172&amp;height=172",
+        "item_name": "Classic Fatayer Ball Box",
+        "item_desc": "Minced beef and mozzarella cheese 37 grams",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023701184935042?width=172&amp;height=172",
+        "item_name": "Cones Fatayer Box ",
+        "item_desc": "Chicken fillings fatayer 30 grams",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637977933276181380?width=172&amp;height=172",
+        "item_name": "Mini chicken Sando Sandwich Box ",
+        "item_desc": "Toast bread stuffed with chicken, sundried tomato, pesto\n                                    and parmesan cheese",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023708708068865?width=172&amp;height=172",
+        "item_name": "Mini Croissant Fatayer Box",
+        "item_desc": "Croissant infused with labneh and zaatar 22 grams",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638024655816642434?width=172&amp;height=172",
+        "item_name": "Mini Hot Dog Bread ",
+        "item_desc": "Mini hot dog bread infused with turkey cheese, salami and\n                                    labneh pesto",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022903202702128?width=172&amp;height=172",
+        "item_name": "Mini Open Croissant ",
+        "item_desc": "Croissant stuffed with mixed flavors of creamy chicken,\n                                    beef, labneh pesto, egg cheese and mix cheese.",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023709568896845?width=172&amp;height=172",
+        "item_name": "Mix Fatayer Box",
+        "item_desc": "Mix of fatayer with flavor of mince meat, creamy chicken,\n                                    pizza, zaatar, chicken caesar, beef bolognese and spinach.",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023710934377264?width=172&amp;height=172",
+        "item_name": "Pizza Fatayer Box",
+        "item_desc": "Tomato sauce and mozzarella cheese 25 grams",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638026522637989134?width=172&amp;height=172",
+        "item_name": "Square Fatayer Box",
+        "item_desc": "Pizza fatayer, thyme, spinach, 3 types of cheese and a\n                                    mixture of cheese 27 gm\n                                ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022902723618437?width=172&amp;height=172",
+        "item_name": "Mini Ciabatta Sandwich",
+        "item_desc": "Ciabatta Bread stuffed with creamy chicken, creamy beef,\n                                    turkey & cheese, mix cheese, labneh pesto ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638026472899952797?width=172&amp;height=172",
+        "item_name": "Mini Mix Sandwiches Box 48 Pieces",
+        "item_desc": "Mix of sandwiches, beef burger, chicken burger, sando\n                                    chicken, turkey and cheese, turkey corn, labneh and zaatar, mix cheese, beef salami,\n                                    labneh pesto, chicken caesar.",
+        "item_price": "300.00"
+      }
+    ]
+  },
+  "Sweety Boxes": {
+    "items": [
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023701502800650?width=172&amp;height=172",
+        "item_name": "Croissant Muffin Box ",
+        "item_desc": "A mix of croissant and muffins custard fillings with\n                                    blueberries and strawberries 24 g.",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637977936815285883?width=172&amp;height=172",
+        "item_name": "Chocolate Profiterole Box",
+        "item_desc": "Profiterole filled with ganache and mix nuts 42 grams\n                                ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637977937039997951?width=172&amp;height=172",
+        "item_name": "Tiramisu Eclair Box",
+        "item_desc": "Tiramisu filling and chocolate chips 23g",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023709217242722?width=172&amp;height=172",
+        "item_name": "Mini Eclair Mix Box ",
+        "item_desc": "Mix \u00c3\u00a9clair pistachio, tiramisu, custard and strawberry\n                                ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638020462242174456?width=172&amp;height=172",
+        "item_name": "Granola Profiterole Box",
+        "item_desc": "Profiterole filled with ganache and granola 36 gram ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022895314155893?width=172&amp;height=172",
+        "item_name": "Madelaine Box ",
+        "item_desc": "Sponge dough topped with different chocolate flavors",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637977964333880504?width=172&amp;height=172",
+        "item_name": "Meringue Profiterole Box",
+        "item_desc": "Meringue topped with custard filling profiterole 23 gram\n                                ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023711662533288?width=172&amp;height=172",
+        "item_name": "Mini Sponge Cake ",
+        "item_desc": "Mix flavors sponge cake bite strawberry, chocolate,\n                                    vanilla, raspberry, brownies, pistachio cheesecake, florentine and carrot cake.\n                                ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022902951224459?width=172&amp;height=172",
+        "item_name": "Mix Tart Box",
+        "item_desc": "Flavors strawberry, meringue, and pomegranate tiramisu\n                                ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637977967181304413?width=172&amp;height=172",
+        "item_name": "Mix Croissant Box 25 Pieces",
+        "item_desc": "Mix kind of chocolate croissant strawberry, pistachio,\n                                    Milk chocolate\n                                ",
+        "item_price": "164.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638026463147938254?width=172&amp;height=172",
+        "item_name": "Mix Macaroon Box",
+        "item_desc": "Macaron pistachio, roses, vanilla, chocolate and lemon.\n                                ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023712488249795?width=172&amp;height=172",
+        "item_name": "Strawberry Eclaire Box",
+        "item_desc": "Eclair stuffed with custard and fresh strawberry 43 gram\n                                ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022908310559429?width=172&amp;height=172",
+        "item_name": "Custard Strawberry Profiterole Box",
+        "item_desc": "Pastry dough filled with vanilla custard and fresh\n                                    strawberry 42 g.",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022909184886674?width=172&amp;height=172",
+        "item_name": "Tiramisu Profiterole Box",
+        "item_desc": "Tiramisu fillings, blueberry and profiterole 23 grams\n                                ",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638020461888184521?width=172&amp;height=172",
+        "item_name": "White Chocolate Pistachio Profiterole Box ",
+        "item_desc": "Profiterole filled with white chocolate and pistachio\n                                    paste 57 grams",
+        "item_price": 0.0
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638026466488010089?width=172&amp;height=172",
+        "item_name": "Mix Sweets In Table Box",
+        "item_desc": "7 mix macaroons consisting of pistachio, roses, vanilla,\n                                    chocolate, lemon, 300 gm of chocolate, mini pastry berries, strawberries, mango 6\n                                    pieces, small cake 15 pieces.\n                                ",
+        "item_price": "186.00"
+      }
+    ]
+  },
+  "Chocolate And Dessert": { "items": [] },
+  "Salads and Appetizers": {
+    "items": [
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022892012305247?width=172&amp;height=172",
+        "item_name": "Chicken Caesar Salad",
+        "item_desc": "Romain lettuce with grilled chicken and served with\n                                    special crispy bread",
+        "item_price": "31.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978023510491778?width=172&amp;height=172",
+        "item_name": "Pesto Chicken Salad",
+        "item_desc": "Breaded chicken on top of lettuce served with caesar sauce\n                                    and pesto 298 grams ",
+        "item_price": "36.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022907013971138?width=172&amp;height=172",
+        "item_name": "Breaded Shrimp Caesar Salad",
+        "item_desc": "Romain lettuce with breaded baked shrimp and served with\n                                    special crispy bread",
+        "item_price": "38.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022908626708833?width=172&amp;height=172",
+        "item_name": "Summer Mix Berries ",
+        "item_desc": "Mix berries and lettuce mixed with mozzarella cheese 225\n                                    grams ",
+        "item_price": "44.00"
+      }
+    ]
+  },
+  "Sandwiches And Burger": {
+    "items": [
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022901251020055?width=172&amp;height=172",
+        "item_name": "Chicken Caesar Wrap",
+        "item_desc": "Chicken and caesar sauce, served in tortilla bread, 228\n                                    grams, with fries.",
+        "item_price": "29.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022911231186219?width=172&amp;height=172",
+        "item_name": "Chicken Wrap Shawerma",
+        "item_desc": "Chicken breast with tahina sauce and vegetables served\n                                    with fries in tortilla bread 196 gram.",
+        "item_price": "22.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023706766882540?width=172&amp;height=172",
+        "item_name": "Egg And Avocado",
+        "item_desc": " Boiled eggs with vegetables and cream cheese served in\n                                    brioche bread 239 grams ",
+        "item_price": "25.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023707000669993?width=172&amp;height=172",
+        "item_name": "Eggplant And Halloumi Sandwich",
+        "item_desc": "Eggplant and Halloumi in brioche bread served with\n                                    molasses sauce\n                                ",
+        "item_price": "26.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638024654469172171?width=172&amp;height=172",
+        "item_name": "Falafel Sandwich",
+        "item_desc": "Fried Falafel and vegetables served in brioche bread\n                                ",
+        "item_price": "28.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022890931169707?width=172&amp;height=172",
+        "item_name": "Three Cheese Sandwich",
+        "item_desc": "Mozzarella, white cheddar and yellow cheddar cheese served\n                                    with black olive pest\n                                ",
+        "item_price": "27.00"
+      }
+    ]
+  },
+  "Main Courses": {
+    "items": [
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022891539176293?width=172&amp;height=172",
+        "item_name": "Chicken Biryani",
+        "item_desc": "Grilled chicken and rice with Indian spices served with\n                                    Raita Sauce\n                                ",
+        "item_price": "32.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023712224994711?width=172&amp;height=172",
+        "item_name": "Chinese Chicken With Sticky Rice ",
+        "item_desc": "Fried chicken with rice and soya sauce\n                                ",
+        "item_price": "32.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023689473725731?width=172&amp;height=172",
+        "item_name": "Jambalaya Pasta ",
+        "item_desc": "Penne pasta served with pink sauce and Grilled chicken and\n                                    vegetables\n                                ",
+        "item_price": "39.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638023689798092828?width=172&amp;height=172",
+        "item_name": "Penne Pasta Arabiatta",
+        "item_desc": "Penne pasta served with Red Sauce and Parmesan cheese\n                                ",
+        "item_price": "37.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022907627371808?width=172&amp;height=172",
+        "item_name": "Steak With Sweet And Sour Potato",
+        "item_desc": "Beef Steak with Mashed potatoes and grilled vegetables\n                                    served with Demi-glass Sauce\n                                ",
+        "item_price": "46.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638022908864108146?width=172&amp;height=172",
+        "item_name": "Tagliatelle Mushroom Pasta ",
+        "item_desc": "Tagliatelle Pasta Served with Classic Creamy Mushroom\n                                    Chicken Sauce\n                                ",
+        "item_price": "41.00"
+      }
+    ]
+  },
+  "Ramadan Specials": {
+    "items": [
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Chicken Biryani",
+        "item_desc": "Chicken breast with masala basmati rice.",
+        "item_price": "175.00"
+      },
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Shepherd's Pie ",
+        "item_desc": "Minced beef tenderloin served with vegetables, gratinated\n                                    with mozzarella and parmesan cheese.",
+        "item_price": "180.00"
+      },
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Mozat Meat And Vermicelli Rice ",
+        "item_desc": "Lamb mozat meat served with vermicelli rice flavored by\n                                    oriental spices.",
+        "item_price": "450.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638151757341903224?width=172&amp;height=172",
+        "item_name": "Shells Pasta Stuffed With Chicken",
+        "item_desc": "Jumbo Shells Pasta Stuffed with Chicken Breast Topped with\n                                    Mozzarella & Parmesan Cheese. ",
+        "item_price": "160.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638151771820440110?width=172&amp;height=172",
+        "item_name": "Meat Stuffed Cannelloni",
+        "item_desc": "Cannelloni stuffed with minced tenderloin meat topped with\n                                    parmesan and mozzarella cheese.",
+        "item_price": "190.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638151787564706460?width=172&amp;height=172",
+        "item_name": "Classic Beef Steak With Vegetables ",
+        "item_desc": "Grilled tenderloin steak served with sauteed vegetables\n                                    and demi-glace sauce.",
+        "item_price": "200.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638151799055475277?width=172&amp;height=172",
+        "item_name": "Fatta Kofta ",
+        "item_desc": "Minced beef kofta, stuffed in lebanese small bread topped\n                                    with tahini sauce, pine seeds and pomegranate molasses.",
+        "item_price": "170.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638151820288503638?width=172&amp;height=172",
+        "item_name": "Mix Of Rolls And Salty Tart Tray",
+        "item_desc": "Collection of Vine Leaves, Chicken Saj Rolls, Chicken\n                                    Spring Rolls, Salty Tarts Stuffed with Hommos, Beetroot, Hommos and Labneh.",
+        "item_price": "140.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638151824472118656?width=172&amp;height=172",
+        "item_name": "Box Of Ramadan Healthy Cakes",
+        "item_desc": "Healthy collection of pieces of dates cakes, granola bar\n                                    with berries, brownies with almond slices, carrots cake with walnut, banana cake\n                                    with hazelnut.",
+        "item_price": "100.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_638151825583753808?width=172&amp;height=172",
+        "item_name": "Croissant Pudding",
+        "item_desc": "Chocolate croissant over a bed of mix cream cheese and\n                                    eggs flavored with vanilla and blueberries.",
+        "item_price": "290.00"
+      }
+    ]
+  },
+  "Coffee": {
+    "items": [
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978040626700526?width=172&amp;height=172",
+        "item_name": "Espresso",
+        "item_desc": "Concentrated coffee",
+        "item_price": "18.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978040869680380?width=172&amp;height=172",
+        "item_name": "Mocha",
+        "item_desc": "Composes of chocolate powder, espresso and steamed milk\n                                ",
+        "item_price": "22.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978041056225965?width=172&amp;height=172",
+        "item_name": "Latte",
+        "item_desc": "Thin layer of milk foam, steamed milk and double espresso\n                                ",
+        "item_price": "21.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978041588036939?width=172&amp;height=172",
+        "item_name": "Flat White",
+        "item_desc": "Coffee drink with microfoam milk and double espresso",
+        "item_price": "20.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978041883855887?width=172&amp;height=172",
+        "item_name": "Cappuccino",
+        "item_desc": "Its composed of foam, milk and double espresso",
+        "item_price": "21.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978042151149648?width=172&amp;height=172",
+        "item_name": "Cortado",
+        "item_desc": "Its beverage consisting of an equal mix of double espresso\n                                    and steamed espresso",
+        "item_price": "18.00"
+      },
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Macciato",
+        "item_desc": "Its beverage consisting of double espresso milk foam\n                                ",
+        "item_price": "19.00"
+      },
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Americano",
+        "item_desc": "Its beverage consisting of diluted double espresso with\n                                    hot",
+        "item_price": "18.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978042856387676?width=172&amp;height=172",
+        "item_name": "Filter Coffee",
+        "item_desc": "Machine brewed coffee",
+        "item_price": "18.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978043152480773?width=172&amp;height=172",
+        "item_name": "Spanish Latte",
+        "item_desc": "Its composed of Spanish milk and espresso",
+        "item_price": "23.00"
+      }
+    ]
+  },
+  "Cold Coffee": {
+    "items": [
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978044092742267?width=172&amp;height=172",
+        "item_name": "Ice Latte",
+        "item_desc": "Composes of cold milk topped with double espresso\n                                ",
+        "item_price": "21.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978044595404665?width=172&amp;height=172",
+        "item_name": "Iced Spanish Latte",
+        "item_desc": "Consists of condense milk and espresso\n                                ",
+        "item_price": "23.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978046027603832?width=172&amp;height=172",
+        "item_name": "Ice Mocha",
+        "item_desc": "Composes of chocolate powder, milk and espresso",
+        "item_price": "22.00"
+      }
+    ]
+  },
+  "Refreshing Drinks": {
+    "items": [
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978047724451105?width=172&amp;height=172",
+        "item_name": "Kiwi Lemonade",
+        "item_desc": "Oranges wedges, lemon slices, lemon syrup and kiwi pur\u00c3\u00a9e\n                                ",
+        "item_price": "25.00"
+      },
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Peach Lemonade",
+        "item_desc": "Oranges wedges, lemon slices, lemon syrup and peach pur\u00c3\u00a9e\n                                ",
+        "item_price": "28.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978048765440066?width=172&amp;height=172",
+        "item_name": "Blue Lagoon Lemonade",
+        "item_desc": "Oranges wedges, lemon slices, lemon syrup and blue lagoon\n                                    syrup",
+        "item_price": "25.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978049075620792?width=172&amp;height=172",
+        "item_name": "Strawberry Lemonade",
+        "item_desc": "Oranges wedges, lemon slices, lemon syrup and strawberry\n                                    pur\u00c3\u00a9e",
+        "item_price": "25.00"
+      },
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Sparking Water",
+        "item_desc": "",
+        "item_price": "12.00"
+      },
+      {
+        "image_url": "https://images.deliveryhero.io/image/talabat/Menuitems/mmw_637978049246712060?width=172&amp;height=172",
+        "item_name": "Kiwi Lemonade 250 Ml",
+        "item_desc": "",
+        "item_price": "28.00"
+      },
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Strawberry Lemonade 250 Ml",
+        "item_desc": "Oranges wedges, lemon slices, lemon syrup and strawberry\n                                    pur\u00c3\u00a9e",
+        "item_price": "28.00"
+      },
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Fresh Orange Juice",
+        "item_desc": "Made with freshly squeezed oranges, it's a great source of\n                                    Vitamin C and perfect for any time of the day.",
+        "item_price": "14.00"
+      },
+      {
+        "image_url": "/assets/images/img-placeholder.svg",
+        "item_name": "Peach Iced Tea",
+        "item_desc": "",
+        "item_price": "18.00"
+      }
+    ]
+  }
+}
